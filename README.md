@@ -19,4 +19,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Lev1reG/leetcode/tree/master/0100-same-tree) |
+## Array
+|  |
+| ------- |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/Lev1reG/leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 <!---LeetCode Topics End-->
