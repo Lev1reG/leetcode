@@ -22,5 +22,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Lev1reG/leetcode/tree/master/0001-two-sum) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Lev1reG/leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Lev1reG/leetcode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
