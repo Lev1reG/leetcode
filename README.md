@@ -81,4 +81,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/Lev1reG/leetcode/tree/master/0594-longest-harmonious-subsequence) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Lev1reG/leetcode/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Lev1reG/leetcode/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
