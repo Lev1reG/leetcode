@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Lev1reG/leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Lev1reG/leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Lev1reG/leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Lev1reG/leetcode/tree/master/0067-add-binary) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Lev1reG/leetcode/tree/master/2202-sum-of-k-mirror-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Lev1reG/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## String
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Lev1reG/leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Lev1reG/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Lev1reG/leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Lev1reG/leetcode/tree/master/0067-add-binary) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Lev1reG/leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [3617-find-the-original-typed-string-i](https://github.com/Lev1reG/leetcode/tree/master/3617-find-the-original-typed-string-i) |
 ## Trie
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Lev1reG/leetcode/tree/master/0067-add-binary) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Lev1reG/leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Lev1reG/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Enumeration
@@ -105,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Lev1reG/leetcode/tree/master/0067-add-binary) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Lev1reG/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Two Pointers
 |  |
