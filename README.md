@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Lev1reG/leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Lev1reG/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Lev1reG/leetcode/tree/master/0067-add-binary) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Lev1reG/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Lev1reG/leetcode/tree/master/2202-sum-of-k-mirror-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Lev1reG/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## String
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Lev1reG/leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Lev1reG/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
 |  |
 | ------- |
