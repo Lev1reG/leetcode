@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Lev1reG/leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Lev1reG/leetcode/tree/master/0067-add-binary) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Lev1reG/leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [3396-valid-word](https://github.com/Lev1reG/leetcode/tree/master/3396-valid-word) |
 | [3617-find-the-original-typed-string-i](https://github.com/Lev1reG/leetcode/tree/master/3617-find-the-original-typed-string-i) |
 ## Trie
 |  |
