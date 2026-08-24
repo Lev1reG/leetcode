@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Lev1reG/leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Lev1reG/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0118-pascals-triangle](https://github.com/Lev1reG/leetcode/tree/master/0118-pascals-triangle) |
+| [0128-longest-consecutive-sequence](https://github.com/Lev1reG/leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0134-gas-station](https://github.com/Lev1reG/leetcode/tree/main/0134-gas-station/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Lev1reG/leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/Lev1reG/leetcode/tree/master/0594-longest-harmonious-subsequence) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Lev1reG/leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Lev1reG/leetcode/tree/master/0013-roman-to-integer) |
+| [0128-longest-consecutive-sequence](https://github.com/Lev1reG/leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/Lev1reG/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Lev1reG/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Lev1reG/leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -164,4 +166,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Lev1reG/leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Lev1reG/leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 <!---LeetCode Topics End-->
