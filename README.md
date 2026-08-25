@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/Lev1reG/leetcode/tree/master/0100-same-tree) |
+| [0322-coin-change](https://github.com/Lev1reG/leetcode/tree/main/0322-coin-change/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/Lev1reG/leetcode/tree/main/0134-gas-station/) | Medium |
 | [0198-house-robber](https://github.com/Lev1reG/leetcode/tree/main/0198-house-robber/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Lev1reG/leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0322-coin-change](https://github.com/Lev1reG/leetcode/tree/main/0322-coin-change/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/Lev1reG/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Lev1reG/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Lev1reG/leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Lev1reG/leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Lev1reG/leetcode/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/Lev1reG/leetcode/tree/main/0198-house-robber/) | Medium |
+| [0322-coin-change](https://github.com/Lev1reG/leetcode/tree/main/0322-coin-change/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -180,4 +183,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/Lev1reG/leetcode/tree/main/0056-merge-intervals/) | Medium |
+## Knapsack Problem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/Lev1reG/leetcode/tree/main/0322-coin-change/) | Medium |
+## Complete Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/Lev1reG/leetcode/tree/main/0322-coin-change/) | Medium |
 <!---LeetCode Topics End-->
