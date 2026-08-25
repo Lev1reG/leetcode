@@ -6,14 +6,17 @@ class Solution:
         # we need to find which one is more profitable
         # a) rob current house + loot house previous
         # b) rob previous house & its previous
-        def loot(nums: List[int], i) -> int:
-            if (i < 0):
-                return 0
-            if (memo[i] >= 0):
-                return memo[i]
-            result = max(loot(nums, i - 2) + nums[i], loot(nums, i - 1))
-            memo[i] = result
-            return result
+        if len(nums) == 0:
+            return 0
+        if len(nums) == 1:
+            return nums[0]
+        
+        # dp[a] is the max loot can be collect until house a
+        dp = [0] * (len(nums))
+        dp[0] = nums[0]
+        dp[1] = max(nums[0], nums[1])
 
-        memo = [-1]*(len(nums) + 1)
-        return loot(nums, len(nums) - 1)
+        for house in range(2, len(nums)):
+            dp[house] = max(dp[house - 1], dp[house - 2] + nums[house])
+        
+        return dp[-1]
