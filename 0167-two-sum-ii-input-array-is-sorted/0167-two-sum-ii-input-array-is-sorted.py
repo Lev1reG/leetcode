@@ -1,6 +1,5 @@
 class Solution:
     def twoSum(self, numbers: List[int], target: int) -> List[int]:
-        sum = 0
         left = 0
         right = len(numbers) - 1
         results = []
