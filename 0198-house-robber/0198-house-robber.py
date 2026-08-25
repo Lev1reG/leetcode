@@ -15,5 +15,5 @@ class Solution:
             memo[i] = result
             return result
 
-        memo = [-1]*len(nums)
+        memo = [-1]*(len(nums) + 1)
         return loot(nums, len(nums) - 1)
