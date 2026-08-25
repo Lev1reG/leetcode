@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Lev1reG/leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Lev1reG/leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0014-longest-common-prefix](https://github.com/Lev1reG/leetcode/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/Lev1reG/leetcode/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Lev1reG/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Lev1reG/leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Lev1reG/leetcode/tree/master/0035-search-insert-position) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/Lev1reG/leetcode/tree/main/0015-3sum/) | Medium |
 | [0056-merge-intervals](https://github.com/Lev1reG/leetcode/tree/main/0056-merge-intervals/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Lev1reG/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/Lev1reG/leetcode/tree/master/0594-longest-harmonious-subsequence) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Lev1reG/leetcode/tree/main/0011-container-with-most-water/) | Medium |
+| [0015-3sum](https://github.com/Lev1reG/leetcode/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Lev1reG/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Lev1reG/leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Lev1reG/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
