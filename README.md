@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Lev1reG/leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0198-house-robber](https://github.com/Lev1reG/leetcode/tree/main/0198-house-robber/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Lev1reG/leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/Lev1reG/leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/Lev1reG/leetcode/tree/main/0322-coin-change/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/Lev1reG/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Lev1reG/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -172,12 +173,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Lev1reG/leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Lev1reG/leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Lev1reG/leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/Lev1reG/leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Lev1reG/leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Lev1reG/leetcode/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/Lev1reG/leetcode/tree/main/0198-house-robber/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/Lev1reG/leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/Lev1reG/leetcode/tree/main/0322-coin-change/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
@@ -212,4 +215,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Lev1reG/leetcode/tree/main/0020-valid-parentheses/) | Easy |
+## Longest Increasing Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Lev1reG/leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 <!---LeetCode Topics End-->
