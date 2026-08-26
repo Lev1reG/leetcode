@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Lev1reG/leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Lev1reG/leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0134-gas-station](https://github.com/Lev1reG/leetcode/tree/main/0134-gas-station/) | Medium |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Lev1reG/leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Lev1reG/leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Lev1reG/leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0198-house-robber](https://github.com/Lev1reG/leetcode/tree/main/0198-house-robber/) | Medium |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Lev1reG/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Lev1reG/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Lev1reG/leetcode/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Lev1reG/leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Lev1reG/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Lev1reG/leetcode/tree/master/2202-sum-of-k-mirror-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Lev1reG/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Lev1reG/leetcode/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Lev1reG/leetcode/tree/main/0071-simplify-path/) | Medium |
 | [0094-binary-tree-inorder-traversal](https://github.com/Lev1reG/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Lev1reG/leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
