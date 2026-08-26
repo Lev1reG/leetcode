@@ -17,10 +17,9 @@ class Solution:
                         if left == right == mid:
                             subseq[mid] = nums[idx]
                             break
-                        else:
-                            if subseq[mid] >= nums[idx]:
+                        elif subseq[mid] >= nums[idx]:
                                 right = mid
-                            else:
+                        else:
                                 left = mid + 1
         
         return len(subseq)
