@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Lev1reG/leetcode/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/Lev1reG/leetcode/tree/main/0071-simplify-path/) | Medium |
 | [0125-valid-palindrome](https://github.com/Lev1reG/leetcode/tree/main/0125-valid-palindrome/) | Easy |
+| [0392-is-subsequence](https://github.com/Lev1reG/leetcode/tree/main/0392-is-subsequence/) | Easy |
 | [1138-alphabet-board-path](https://github.com/Lev1reG/leetcode/tree/main/1138-alphabet-board-path/) | Medium |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Lev1reG/leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Lev1reG/leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Lev1reG/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/Lev1reG/leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Lev1reG/leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0392-is-subsequence](https://github.com/Lev1reG/leetcode/tree/main/0392-is-subsequence/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Lev1reG/leetcode/tree/main/0198-house-robber/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Lev1reG/leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/Lev1reG/leetcode/tree/main/0322-coin-change/) | Medium |
+| [0392-is-subsequence](https://github.com/Lev1reG/leetcode/tree/main/0392-is-subsequence/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
