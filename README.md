@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1138-alphabet-board-path](https://github.com/Lev1reG/leetcode/tree/main/1138-alphabet-board-path/) | Medium |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Lev1reG/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Lev1reG/leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Lev1reG/leetcode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Lev1reG/leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [3396-valid-word](https://github.com/Lev1reG/leetcode/tree/master/3396-valid-word) |
 | [3617-find-the-original-typed-string-i](https://github.com/Lev1reG/leetcode/tree/master/3617-find-the-original-typed-string-i) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Lev1reG/leetcode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Lev1reG/leetcode/tree/master/2202-sum-of-k-mirror-numbers) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Lev1reG/leetcode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -147,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/Lev1reG/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Lev1reG/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Lev1reG/leetcode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -213,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Lev1reG/leetcode/tree/main/0055-jump-game/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Lev1reG/leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0134-gas-station](https://github.com/Lev1reG/leetcode/tree/main/0134-gas-station/) | Medium |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Lev1reG/leetcode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
