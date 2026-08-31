@@ -11,26 +11,29 @@ class Solution:
         prev = head
         curr = head.next
         idx = 1
-        crit_point = []
-        minDistance = inf
+        first_cp, prev_cp = -1, -1
+        minDistance = float("inf")
 
         while curr.next:
-            is_local_max = curr.val > prev.val and curr.val > curr.next.val
-            is_local_min = curr.val < prev.val and curr.val < curr.next.val
+            is_critical_point = (
+                curr.val > prev.val and curr.val > curr.next.val
+            ) or (
+                curr.val < prev.val and curr.val < curr.next.val
+            )
 
-            if is_local_max or is_local_min:
-                crit_point.append(idx)
+            if is_critical_point:
+                if first_cp == -1:
+                    first_cp = idx
+                else:
+                    minDistance = min(minDistance, idx - prev_cp)
+                prev_cp = idx
             
             prev = curr
             curr = curr.next
             idx += 1
         
-        if len(crit_point) < 2:
+        if minDistance == float("inf"):
             return [-1, -1]
         
-        for i in range(len(crit_point) - 1):
-            diff = crit_point[i + 1] - crit_point[i]
-            minDistance = min(minDistance, diff)
-        
-        return [minDistance, (crit_point[-1] - crit_point[0])]
+        return [minDistance, (prev_cp - first_cp)]
 
