@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Lev1reG/leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0198-house-robber](https://github.com/Lev1reG/leetcode/tree/main/0198-house-robber/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Lev1reG/leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0219-contains-duplicate-ii](https://github.com/Lev1reG/leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0268-missing-number](https://github.com/Lev1reG/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/Lev1reG/leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/Lev1reG/leetcode/tree/main/0322-coin-change/) | Medium |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Lev1reG/leetcode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Lev1reG/leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Lev1reG/leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0219-contains-duplicate-ii](https://github.com/Lev1reG/leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0268-missing-number](https://github.com/Lev1reG/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/Lev1reG/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1138-alphabet-board-path](https://github.com/Lev1reG/leetcode/tree/main/1138-alphabet-board-path/) | Medium |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Lev1reG/leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Lev1reG/leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0219-contains-duplicate-ii](https://github.com/Lev1reG/leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/Lev1reG/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 ## Counting
 | Problem Name | Difficulty |
