@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Lev1reG/leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/Lev1reG/leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0268-missing-number](https://github.com/Lev1reG/leetcode/tree/main/0268-missing-number/) | Easy |
+| [0383-ransom-note](https://github.com/Lev1reG/leetcode/tree/main/0383-ransom-note/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/Lev1reG/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1138-alphabet-board-path](https://github.com/Lev1reG/leetcode/tree/main/1138-alphabet-board-path/) | Medium |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Lev1reG/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Lev1reG/leetcode/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/Lev1reG/leetcode/tree/main/0071-simplify-path/) | Medium |
 | [0125-valid-palindrome](https://github.com/Lev1reG/leetcode/tree/main/0125-valid-palindrome/) | Easy |
+| [0383-ransom-note](https://github.com/Lev1reG/leetcode/tree/main/0383-ransom-note/) | Easy |
 | [0392-is-subsequence](https://github.com/Lev1reG/leetcode/tree/main/0392-is-subsequence/) | Easy |
 | [1138-alphabet-board-path](https://github.com/Lev1reG/leetcode/tree/main/1138-alphabet-board-path/) | Medium |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Lev1reG/leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0383-ransom-note](https://github.com/Lev1reG/leetcode/tree/main/0383-ransom-note/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/Lev1reG/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Lev1reG/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Lev1reG/leetcode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
