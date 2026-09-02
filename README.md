@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Lev1reG/leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Lev1reG/leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Lev1reG/leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
+| [3875-construct-uniform-parity-array-i](https://github.com/Lev1reG/leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Lev1reG/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Lev1reG/leetcode/tree/master/2202-sum-of-k-mirror-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Lev1reG/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Lev1reG/leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
