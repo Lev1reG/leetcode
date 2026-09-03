@@ -280,4 +280,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Lev1reG/leetcode/tree/main/0053-maximum-subarray/) | Medium |
+## Newton's Method
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/Lev1reG/leetcode/tree/main/0069-sqrtx/) | Easy |
 <!---LeetCode Topics End-->
