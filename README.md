@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Lev1reG/leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Lev1reG/leetcode/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/Lev1reG/leetcode/tree/main/0071-simplify-path/) | Medium |
+| [0115-distinct-subsequences](https://github.com/Lev1reG/leetcode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0125-valid-palindrome](https://github.com/Lev1reG/leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0205-isomorphic-strings](https://github.com/Lev1reG/leetcode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0383-ransom-note](https://github.com/Lev1reG/leetcode/tree/main/0383-ransom-note/) | Easy |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Lev1reG/leetcode/tree/main/0055-jump-game/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Lev1reG/leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/Lev1reG/leetcode/tree/master/0070-climbing-stairs) |
+| [0115-distinct-subsequences](https://github.com/Lev1reG/leetcode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0118-pascals-triangle](https://github.com/Lev1reG/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Lev1reG/leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Lev1reG/leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
