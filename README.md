@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Lev1reG/leetcode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0383-ransom-note](https://github.com/Lev1reG/leetcode/tree/main/0383-ransom-note/) | Easy |
 | [0392-is-subsequence](https://github.com/Lev1reG/leetcode/tree/main/0392-is-subsequence/) | Easy |
+| [0940-distinct-subsequences-ii](https://github.com/Lev1reG/leetcode/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1138-alphabet-board-path](https://github.com/Lev1reG/leetcode/tree/main/1138-alphabet-board-path/) | Medium |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Lev1reG/leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Lev1reG/leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Lev1reG/leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/Lev1reG/leetcode/tree/main/0322-coin-change/) | Medium |
 | [0392-is-subsequence](https://github.com/Lev1reG/leetcode/tree/main/0392-is-subsequence/) | Easy |
+| [0940-distinct-subsequences-ii](https://github.com/Lev1reG/leetcode/tree/main/0940-distinct-subsequences-ii/) | Hard |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
