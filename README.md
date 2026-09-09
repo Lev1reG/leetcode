@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2202-sum-of-k-mirror-numbers](https://github.com/Lev1reG/leetcode/tree/master/2202-sum-of-k-mirror-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Lev1reG/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3870-count-commas-in-range](https://github.com/Lev1reG/leetcode/tree/main/3870-count-commas-in-range/) | Easy |
+| [3871-count-commas-in-range-ii](https://github.com/Lev1reG/leetcode/tree/main/3871-count-commas-in-range-ii/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/Lev1reG/leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Lev1reG/leetcode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 ## String
