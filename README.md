@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Lev1reG/leetcode/tree/main/0056-merge-intervals/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Lev1reG/leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0066-plus-one](https://github.com/Lev1reG/leetcode/tree/master/0066-plus-one) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Lev1reG/leetcode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Lev1reG/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0118-pascals-triangle](https://github.com/Lev1reG/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Lev1reG/leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Lev1reG/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Lev1reG/leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Lev1reG/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Lev1reG/leetcode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Lev1reG/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/Lev1reG/leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Lev1reG/leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
