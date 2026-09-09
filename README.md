@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Lev1reG/leetcode/tree/main/0198-house-robber/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Lev1reG/leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/Lev1reG/leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0228-summary-ranges](https://github.com/Lev1reG/leetcode/tree/main/0228-summary-ranges/) | Easy |
 | [0268-missing-number](https://github.com/Lev1reG/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/Lev1reG/leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/Lev1reG/leetcode/tree/main/0322-coin-change/) | Medium |
