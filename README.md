@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Lev1reG/leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0205-isomorphic-strings](https://github.com/Lev1reG/leetcode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0290-word-pattern](https://github.com/Lev1reG/leetcode/tree/main/0290-word-pattern/) | Easy |
+| [0344-reverse-string](https://github.com/Lev1reG/leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0383-ransom-note](https://github.com/Lev1reG/leetcode/tree/main/0383-ransom-note/) | Easy |
 | [0392-is-subsequence](https://github.com/Lev1reG/leetcode/tree/main/0392-is-subsequence/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/Lev1reG/leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Lev1reG/leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Lev1reG/leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/Lev1reG/leetcode/tree/main/0189-rotate-array/) | Medium |
+| [0344-reverse-string](https://github.com/Lev1reG/leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0392-is-subsequence](https://github.com/Lev1reG/leetcode/tree/main/0392-is-subsequence/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/Lev1reG/leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
 ## String Matching
