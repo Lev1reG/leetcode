@@ -8,11 +8,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Lev1reG/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Lev1reG/leetcode/tree/master/0100-same-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Lev1reG/leetcode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Lev1reG/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Lev1reG/leetcode/tree/master/0100-same-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Lev1reG/leetcode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -24,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Lev1reG/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Lev1reG/leetcode/tree/master/0100-same-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Lev1reG/leetcode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
