@@ -7,6 +7,7 @@
 class Solution:
     def averageOfSubtree(self, root: TreeNode) -> int:
         def sumOfSubtree(node: TreeNode):
+            nonlocal match_count
             if not node:
                 return 0, 0
             
@@ -17,11 +18,11 @@ class Solution:
             totalCount = leftCount + rightCount + 1
 
             if (totalSum // totalCount) == node.val:
-                self.match_count += 1
+                match_count += 1
             
             return totalSum, totalCount
         
-        self.match_count = 0
+        match_count = 0
         sumOfSubtree(root)
 
-        return self.match_count
+        return match_count
