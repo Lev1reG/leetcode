@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Lev1reG/leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0189-rotate-array](https://github.com/Lev1reG/leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/Lev1reG/leetcode/tree/main/0268-missing-number/) | Easy |
+| [0412-fizz-buzz](https://github.com/Lev1reG/leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Lev1reG/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Lev1reG/leetcode/tree/master/2202-sum-of-k-mirror-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Lev1reG/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Lev1reG/leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0383-ransom-note](https://github.com/Lev1reG/leetcode/tree/main/0383-ransom-note/) | Easy |
 | [0392-is-subsequence](https://github.com/Lev1reG/leetcode/tree/main/0392-is-subsequence/) | Easy |
+| [0412-fizz-buzz](https://github.com/Lev1reG/leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/Lev1reG/leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0940-distinct-subsequences-ii](https://github.com/Lev1reG/leetcode/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1138-alphabet-board-path](https://github.com/Lev1reG/leetcode/tree/main/1138-alphabet-board-path/) | Medium |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/Lev1reG/leetcode/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/Lev1reG/leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Lev1reG/leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Lev1reG/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Enumeration
