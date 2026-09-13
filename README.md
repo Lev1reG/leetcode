@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Lev1reG/leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/Lev1reG/leetcode/tree/main/0322-coin-change/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/Lev1reG/leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0835-image-overlap](https://github.com/Lev1reG/leetcode/tree/main/0835-image-overlap/) | Medium |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Lev1reG/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Lev1reG/leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Lev1reG/leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0064-minimum-path-sum](https://github.com/Lev1reG/leetcode/tree/main/0064-minimum-path-sum/) | Medium |
+| [0835-image-overlap](https://github.com/Lev1reG/leetcode/tree/main/0835-image-overlap/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Lev1reG/leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
