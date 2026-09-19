@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Lev1reG/leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [0509-fibonacci-number](https://github.com/Lev1reG/leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [0836-rectangle-overlap](https://github.com/Lev1reG/leetcode/tree/main/0836-rectangle-overlap/) | Easy |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Lev1reG/leetcode/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Lev1reG/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Lev1reG/leetcode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Lev1reG/leetcode/tree/master/2202-sum-of-k-mirror-numbers) |
@@ -371,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/Lev1reG/leetcode/tree/main/0836-rectangle-overlap/) | Easy |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Lev1reG/leetcode/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
